@@ -23,3 +23,5 @@ Creditos : Erik Isaak
 
 Licencia:
 
+Tambien se agrefa lo investigado en el apartadop de la Evidencia Sobre Facebok, y de como ser un developer en apps dentro de esta apliacion, creacion de apps
+creacion de codigo mencionado para la app de facebook.
